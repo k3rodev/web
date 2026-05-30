@@ -1,5 +1,5 @@
-.poetsen-one-regular {
-  font-family: "Poetsen One", sans-serif;
+.Lato-Bold.ttf {
+  font-family: "Lato Bold", sans-serif;
   font-weight: 400;
   font-style: normal;
 }
@@ -194,24 +194,24 @@ p{
         transform: translateY(100vh);
     }
 }
-.drop:nth-child(1) { Left: 5%; animation-duration: 4s;}
-.drop:nth-child(2) { Left: 15%; animation-duration: 3.2s;}
-.drop:nth-child(3) { Left: 25%; animation-duration: 4.8s;}
-.drop:nth-child(4) { Left: 35%; animation-duration: 3.5s;}
-.drop:nth-child(5) { Left: 45%; animation-duration: 4.1s;}
-.drop:nth-child(6) { Left: 55%; animation-duration: 3.9s;}
-.drop:nth-child(7) { Left: 65%; animation-duration: 4.3s;}
-.drop:nth-child(8) { Left: 75%; animation-duration: 3.6s;}
-.drop:nth-child(9) { Left: 85%; animation-duration: 4.4s;}
-.drop:nth-child(10) { Left: 95%; animation-duration: 3s;}
-.drop:nth-child(11) { Left: 100%; animation-duration: 4.2s;}
-.drop:nth-child(12) { Left: 25%; animation-duration: 3.8s;}
-.drop:nth-child(13) { Left: 35%; animation-duration: 4.5s;}
-.drop:nth-child(14) { Left: 45%; animation-duration: 3.1s;}
-.drop:nth-child(15) { Left: 55%; animation-duration: 4.9s;}
-.drop:nth-child(16) { Left: 65%; animation-duration: 3.3s;}
-.drop:nth-child(17) { Left: 75%; animation-duration: 4.6s;}
-.drop:nth-child(18) { Left: 85%; animation-duration: 3.4s;}
+.drop:nth-child(1) { Left: 5%; animation-duration: .9s;}
+.drop:nth-child(2) { Left: 15%; animation-duration: 1.2s;}
+.drop:nth-child(3) { Left: 25%; animation-duration: 2.8s;}
+.drop:nth-child(4) { Left: 35%; animation-duration: 1.5s;}
+.drop:nth-child(5) { Left: 45%; animation-duration: 2.1s;}
+.drop:nth-child(6) { Left: 55%; animation-duration: 1.9s;}
+.drop:nth-child(7) { Left: 65%; animation-duration: 2.3s;}
+.drop:nth-child(8) { Left: 75%; animation-duration: 1.6s;}
+.drop:nth-child(9) { Left: 85%; animation-duration: 2.4s;}
+.drop:nth-child(10) { Left: 95%; animation-duration: 2.3s;}
+.drop:nth-child(11) { Left: 100%; animation-duration: 2.2s;}
+.drop:nth-child(12) { Left: 25%; animation-duration: 1.8s;}
+.drop:nth-child(13) { Left: 35%; animation-duration: 1.5s;}
+.drop:nth-child(14) { Left: 45%; animation-duration: 2.1s;}
+.drop:nth-child(15) { Left: 55%; animation-duration: 1.9s;}
+.drop:nth-child(16) { Left: 65%; animation-duration: 2.3s;}
+.drop:nth-child(17) { Left: 75%; animation-duration: 1.6s;}
+.drop:nth-child(18) { Left: 85%; animation-duration: 2.4s;}
 
 .rainbow-text{
     filter: drop-shadow(0 0 18px rgba(255, 255, 255, 0.9));
