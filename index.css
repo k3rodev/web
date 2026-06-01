@@ -187,7 +187,7 @@ p{
     width: 2px;
     height: 20px;
     background: rgba(255, 255, 255, 0);
-    animation: fall infinite linear; /* Added linear so it falls smoothly */
+    animation: fall infinite linear;
     color: white;
     font-size: 30px;
 }
